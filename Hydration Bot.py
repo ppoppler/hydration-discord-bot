@@ -276,4 +276,4 @@ async def on_message(message):
     print('{}: {}'.format(author,content))
     
 
-bot.run("NDU5NjEwNzI4MDU2MzU2ODY0.Dg4tdA.ypAGqVWDHBXpikEFrtS-ly2kFCY")
+bot.run("#####API KEY HERE#####")
